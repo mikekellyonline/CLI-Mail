@@ -2,4 +2,4 @@
  CLI based email inbox
 
 
-###Use Mail in a terminal. 
+### Use Mail in a terminal. 
